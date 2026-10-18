@@ -21,7 +21,7 @@ git clone https://github.com/cyrodevlp/viewServerAsMember
 ## How do I receive updates for this plugin?
 You will have to make sure to keep up with the latest changes to fix issues and get new features.
 The updates will be available to you through this Github page only.
-You can update attachmentEditor by directing your terminal to its folder (`cd Vencord/src/userplugins/viewServerAsMember` or `cd src/userplugins/viewServerAsMember`) and by running this shell prompt:
+You can update viewServerAsMember by directing your terminal to its folder (`cd Vencord/src/userplugins/viewServerAsMember` or `cd src/userplugins/viewServerAsMember`) and by running this shell prompt:
 ```sh
 git pull
 ```
