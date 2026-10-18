@@ -1,0 +1,21 @@
+# dependencies
+node_modules/
+venv/
+.venv/
+pycache/
+
+# .env vars
+.env
+.env.*
+!.env.example
+
+# IDE settings
+.idea/
+.vscode/
+*.iml
+
+# logs
+.log
+
+# MD files
+*.md
